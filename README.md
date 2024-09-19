@@ -13,5 +13,25 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Download do modelo de Automação
 - Pool de Hosts
 
-
 ### Criação de aplicativo de Funções
+
+### Como criar uma contas de armazenamento
+- Nome da conta deve ser exclusivo
+- 3 a 24 caracteres
+- Não aceita letras maiusculas nem caracteres especiais
+
+### Tipos de conta
+- Standard
+- Premium
+
+### Criação de tipos de armazenamento
+
+### Migrações para o Azure
+- Modelos de migração Azure (Data Box Disk, Data Box, Data Bx Heavy)
+
+### Criação de comandos pelo AzCopy
+- Trasferencia de arquivos via Azcopy
+- Permissões de acesso aos arquivos
+
+
+Obs: Versões prévias não são indicadas para ambiente de produção
