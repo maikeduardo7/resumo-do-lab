@@ -33,5 +33,13 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Trasferencia de arquivos via Azcopy
 - Permissões de acesso aos arquivos
 
-
 Obs: Versões prévias não são indicadas para ambiente de produção
+
+### Conceito de confiança zero
+- Desconfie de todos e não confie em ninguem
+
+### Microsoft Entra ID (antigo Azure AD)
+- Contas de usuarios criadas na nuvem, não são replicadas para o AD local ou On Premise
+- Usuario deletados ficam suspensos por 30 dias, após esse período são permanentemente excluidos
+
+### Microsoft Defender for Cloud (Validador de Segurança)
