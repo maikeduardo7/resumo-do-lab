@@ -90,3 +90,11 @@ Ferramenta de gerenciamento de recursos na nuvem.
 Fornece uma camada de gerenciamento que permite criar, atualizar e excluir recursos de assinatura do Azure.
 Trabalha com modelo JSON
 Bicep: modelo de linguagem nativa da nuvem da Microsoft
+
+## FERRAMENTAS DE MONITORAMENTO DO AZURE
+
+### Assistente do Azure
+
+### Integridade do Serviço
+
+### Azure Monitor
