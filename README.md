@@ -72,3 +72,21 @@ Soluções de governança, risco  e conformidade. Reune insights sobre seus dado
 - Descoberta de dados automatizadas
 - Classificação de dados confidenciais
 - Linhagem de dados de ponta a ponta
+
+## FERRAMENTAS PARA INTERAGIR COM O AZURE
+
+### Portal do Azure
+
+### Azure Power Shell
+
+### Azure Cloud Shell
+
+### Interface de Linha de Comando (CLI)
+
+### Azure Arc
+Ferramenta de gerenciamento de recursos na nuvem.
+
+### Azure ARM
+Fornece uma camada de gerenciamento que permite criar, atualizar e excluir recursos de assinatura do Azure.
+Trabalha com modelo JSON
+Bicep: modelo de linguagem nativa da nuvem da Microsoft
