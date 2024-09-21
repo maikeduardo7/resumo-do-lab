@@ -43,3 +43,18 @@ Obs: Versões prévias não são indicadas para ambiente de produção
 - Usuario deletados ficam suspensos por 30 dias, após esse período são permanentemente excluidos
 
 ### Microsoft Defender for Cloud (Validador de Segurança)
+
+## GERENCIAMENTO DE CUSTOS
+
+### Fatores que afetam os custos
+- Tipos de Recurso
+- Consumo
+- Manutenção
+- Área Geográfica
+- Tráfego de rede
+- Assinatura
+
+### Calculadora (TCO)
+
+### Marcas (tags)
+- Úteis para reunir informações de cobrança
