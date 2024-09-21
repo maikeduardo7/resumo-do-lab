@@ -58,3 +58,17 @@ Obs: Versões prévias não são indicadas para ambiente de produção
 
 ### Marcas (tags)
 - Úteis para reunir informações de cobrança
+
+## GOVERNANÇA E CONFORMIDADE
+
+### Azure Policy
+Fornece governança e consistência de recursos com conformidade regulatória, segurança, custo e gerenciamento.
+Bloqueio de recursos (herdáveis)
+
+### Portal de Confiança de Serviço
+
+### Microsoft Purview
+Soluções de governança, risco  e conformidade. Reune insights sobre seus dados locais, multinuvem e de software como serviço (Auditoria).
+- Descoberta de dados automatizadas
+- Classificação de dados confidenciais
+- Linhagem de dados de ponta a ponta
