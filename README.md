@@ -98,3 +98,10 @@ Bicep: modelo de linguagem nativa da nuvem da Microsoft
 ### Integridade do Serviço
 
 ### Azure Monitor
+
+## Live: Azure AI e Azure OpenAI Model
+
+#### Azure IA Studio
+
+ai.azure.com
+Modelos de linguagem Pré-compilados da Azure
